@@ -1,4 +1,4 @@
-      Hello, I'm Patrick Goldrick 👋
+#Hello, I'm Patrick Goldrick 👋
 
   I'm a software engineering student with a passion for game development 👨‍🎓.
 
