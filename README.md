@@ -1,10 +1,12 @@
       Hello, I'm Patrick Goldrick 👋
 
-  I am currently a software engineer student 👨‍🎓.
+  I'm a software engineering student 👨‍🎓.
 
 I'm currently:
 - 📚 Learning CSS
 - 📚 Learning Python
+- 📚 Learning Java
+- 📖 Reading Game of Thrones
   
 
 
