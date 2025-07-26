@@ -6,12 +6,16 @@ About Me
 ---
 
 I'm currently:
+
+- 📖 Reading Game of Thrones
+
+Things i'm working on  
+---  
 - 📚 Learning CSS
 - 📚 Learning Python
 - 📚 Learning Java
-- 📖 Reading Game of Thrones
-
-
+- 📚 Learning UE
+- 📚 Learning Unity
   
 
 
