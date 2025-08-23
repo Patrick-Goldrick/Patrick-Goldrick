@@ -1,9 +1,9 @@
+About Me
+---
+
 ### Hello, I'm Patrick Goldrick 👋
 
   I'm a software engineering student with a passion for game development 👨‍🎓.
-
-About Me
----
 
 I'm currently:
 
