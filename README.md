@@ -8,6 +8,7 @@ About Me
 I'm currently:
 
 - 📖 Reading Game of Thrones
+- 📺 Watching many many tutorials 
 
 Things i'm working on  
 ---  
