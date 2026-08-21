@@ -1,10 +1,10 @@
 # Hi, I'm Patrick Goldrick 👋
 
-I'm a Software Engineering graduate specialising in Game Development, currently completing my Bachelor's degree.
+I'm a Software Engineering graduate specialising in Game Development, currently Progressing onto a Bachelor's degree in Software Engineering (Game Development), expected 2027.
 
 I have practical experience in software development and game development through university projects, personal projects and game jams. I'm particularly interested in software engineering, programming and developing interactive applications.
 
-## 🛠️ Technologies
+## 🖥️ Technologies
 
 - **Languages:** C#, C++, Python, Lua
 - **Game Engines:** Unity, Unreal Engine
@@ -27,7 +27,7 @@ University of Lancaster — Commendation
 
 Currently completing a Bachelor's degree in Software Engineering (Game Development), expected 2027.
 
-## 📫 Contact
+## 📞Contact/Opportunities
 
 I'm currently looking for graduate and junior software engineering/development opportunities.
 
